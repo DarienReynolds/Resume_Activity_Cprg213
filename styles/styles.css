@@ -1,0 +1,58 @@
+
+body{
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: #E6A293;
+}
+h1,h2{
+    text-align: center;
+    text-decoration: underline;
+    border: 2px solid #E33089;
+    background-color: #F65DFA;
+}
+h3{
+    text-decoration: underline;
+    border: 2px solid #E33089;
+    background-color: #F65DFA;
+    width: 40%;
+
+}
+.banner img{
+    width: 100%;
+    height: auto;
+}
+.column {
+    float: left;
+    width: 50%;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.objective{
+    background-color: #FA4340;
+    border-radius: 15px;
+    padding: 2em;
+}
+.experience{
+    background-color: #FF8B4F;
+    border-radius: 15px;
+    padding: 2em;
+}
+.education{
+    background-color: #FA4340;
+    border-radius: 15px;
+    padding: 2em;
+}
+.activities{
+    background-color: #FF8B4F;
+    border-radius: 15px;
+    padding: 2em;
+}
+.linkhere{
+    color: black;
+    background-color: #F65DFA;
+}
